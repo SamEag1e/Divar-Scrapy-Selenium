@@ -1,4 +1,4 @@
-# 📦 Archived Project - Scraping_Real_Estate_Divar_Scrapy_Selenium
+# 📦 Archived Project - Divar-Scrapy-Selenium
 
 > This repository is **archived** and part of my early learning journey in Python.  
 > It’s no longer active but stays here as a snapshot of where I started.
